@@ -1,0 +1,25 @@
+.formContainer{
+ display:flex;
+ align-items: center;
+ justify-content: center;
+ height: 100vh;
+ 
+}
+.register-form{
+    padding:10px;
+    border:2px ;
+    border-radius: 10px;
+    width :400px;
+    min-height:670px;
+    box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.163); 
+}
+.formBody{
+    background-image: url("https://airplhrd.com/core/member/Login-Page-Background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imgCont{
+    
+    border:2px ;
+    border-radius: 5px;
+}
